@@ -26,15 +26,9 @@ a{
 }
 
 /*=============== baner ==============*/
-.banner-img {
-        background-image: url(../img/02.jpg);
-        padding-bottom: 20px;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        height: 500px;
-        position: relative;
-    }
+body{
+	 background-image: url(../img/02.jpg);
+}
     
     .banner-text h1 {
         padding-left: 50px;
