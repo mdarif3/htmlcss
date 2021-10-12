@@ -26,4 +26,26 @@ a{
 }
 
 /*=============== baner ==============*/
-
+.banner-img {
+        background-image: url(../img/02.jpg);
+        padding-bottom: 20px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+        position: relative;
+    }
+    
+    .banner-text h1 {
+        padding-left: 50px;
+        width: 1200px;
+        height: auto;
+        width: auto;
+        font-family: 'Times New Roman';
+        color: #110101;
+        position: relative;
+    }
+    
+    .banner-text span {
+        color: #f16609e5
+    }
