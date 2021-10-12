@@ -26,7 +26,15 @@ a{
 }
 
 /*=============== baner ==============*/
-
+.banner-img {
+    background-image: url(../img/sf.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: initial;
+    width: 1265px;
+    height: 400px;
+}
 
 
     
